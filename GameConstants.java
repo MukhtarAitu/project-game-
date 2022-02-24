@@ -1,8 +1,10 @@
 public interface GameConstants {
-    public final int DEFAULT_WIDTH = 600;
-    public final int DEFAULT_HEIGHT = 300;
-    public final int DELAY = 8;
-    public final int BASERADIUS=5;
-    public final int LIFETIME=1300;
-    public final int MAXRADIUS=25;
-    public final int STARTQNTBALLS=10;
+    public final int default_width = 600;
+    public final int default_height = 300;
+    public final int delay = 8;
+    public final int baseradius = 5;
+    public final int lifetime = 1300;
+    public final int maxradius = 25;
+    public final int numberofballs = 10;
+
+}
